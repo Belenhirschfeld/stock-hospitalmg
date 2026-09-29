@@ -1,0 +1,28 @@
+{
+  "name": "sisgest",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión de Inventario Hospitalario - Automatización de control de stock y auditoría",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "open public/index.html",
+    "demo": "open public/dashboard.html"
+  },
+  "keywords": [
+    "hospital",
+    "inventario",
+    "stock",
+    "auditoría",
+    "medicamentos",
+    "gestión",
+    "automatización"
+  ],
+  "author": "Belén Hirschfeld",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belenhirschfeld/sisgest"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
