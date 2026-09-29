@@ -30,3 +30,15 @@ build/
 
 # Coverage
 coverage/
+
+# Proyectos locales sin control de versiones
+5ypadel-web/
+caballero-urbano/
+portadas/
+secciones/
+synapsex/
+Claude.app/
+*.css
+*.png
+SisGest*.html
+.claude/
